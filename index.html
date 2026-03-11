@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>✦ My Tasks</title>
+
+  <link rel="stylesheet" href="dist/output.css" />
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+  <!-- Babel (JSX support in browser) -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+
+<body class="app-body flex items-center justify-center min-h-screen p-4">
+
+  <!-- Animated Blobs -->
+  <div class="blob1 fixed top-[-80px] left-[-80px] w-72 h-72 rounded-full blur-3xl pointer-events-none"></div>
+  <div class="blob2 fixed bottom-[-80px] right-[-80px] w-72 h-72 rounded-full blur-3xl pointer-events-none"></div>
+
+  <div id="root"></div>
+
+  <script type="text/babel" src="src/main.jsx"></script>
+</body>
+
+</html>

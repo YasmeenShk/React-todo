@@ -5,7 +5,7 @@ It helps users manage daily tasks with features like adding, editing, deleting, 
 
 ## 🌐 Live Demo
 
-[React ToDo Live ](ys-react-todo.netlify.app)
+[React-ToDo](ys-react-todo.netlify.app)
 
 
 ## 🚀 Features

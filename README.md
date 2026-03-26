@@ -1,7 +1,7 @@
 # React Todo App
 
 A clean and responsive **Todo List application built with React and Tailwind CSS**.
-It helps users manage daily tasks with features like adding, editing, deleting, filtering, and dark mode support.
+It helps users manage daily tasks with features like adding, editing, deleting, filtering, and 
 
 ## 🌐 Live Demo
 

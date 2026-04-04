@@ -5,7 +5,7 @@ It helps users manage daily tasks with features like adding, editing, deleting, 
 
 ## 🌐 Live Demo
 
-[React-TodoApp-Link](https://weather-ys.vercel.app/))
+[React-TodoApp-Link](https://weather-ys.vercel.app/)
 
 
 ## 🚀 Features
